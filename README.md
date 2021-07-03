@@ -1,9 +1,16 @@
-## Olá, me chamo Danilo e sou Desenvolvedor Front-End 
+## Olá, eu me chamo Danilo Costa e sou desenvolvedor FullStack!
 
-![tecnologias front-end](https://github.com/daniloalvescosta/daniloalvescosta/blob/main/frontend.png)
+Possuo habilidades com:
 
-meu sonho é me aperfeiçoar na área para criar interfaces mais limpas, responsivas e didáticas ao publico leigo. Contudo também possuo como meta aprender back-end e me tornar um FullStack.
+    Java
+    Angular
+    Spring Boot
+    PostgreSQL
+    JDBC e JPA
+    API rest
+    SpringCloud
 
-Atualmente possuo conhecimento em HTML5, CSS3, JavaScript, React.js, TypeScript, Sass e bootstrap, e neste momento estou estudando uma formação de back-end Node.JS com foco em MongoDB.
+Além de conhecimento a cerca de Estrutura de dados e algoritmos.
 
-Faço faculdade de Analise e desenvolvimento de sistemas e estou em busca da minha primeira colocação profissional.
+
+Considero o trabalho em equipe como núcleo essencial de uma empresa, algo importante para o desenvolvimento de soluções para os problemas que afetam o empreendimento. Comunicação, duvidas, soluções e criticas construtivas são o cerne deste bom trabalho!
