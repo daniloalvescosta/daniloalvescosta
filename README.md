@@ -1,3 +1,5 @@
+![Java Image](https://github.com/daniloalvescosta/daniloalvescosta/blob/main/e2d2f80e-java-logo-1-1024x573.png)
+
 ## Olá, eu me chamo Danilo Costa e sou desenvolvedor FullStack!
 
 Possuo habilidades com:
