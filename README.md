@@ -1,4 +1,4 @@
-![Java Image](https://github.com/daniloalvescosta/daniloalvescosta/blob/main/e2d2f80e-java-logo-1-1024x573.png)
+![Java Image](https://dicasdejava.com.br/images/logo-java.png)
 
 ## Olá, eu me chamo Danilo Costa e sou desenvolvedor FullStack!
 
