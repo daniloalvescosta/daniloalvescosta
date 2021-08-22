@@ -1,6 +1,6 @@
 ![Java Image](https://dicasdejava.com.br/images/logo-java.png)
 
-## Olá, eu me chamo Danilo Costa e sou desenvolvedor FullStack!
+## Olá, eu me chamo Danilo Costa e sou desenvolvedor Java Back-end!
 
 Possuo habilidades com:
 
