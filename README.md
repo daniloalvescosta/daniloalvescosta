@@ -2,7 +2,7 @@
 
 - 👨‍🎓 I'm back-end java Developer graduated in systems analysis and development
 - 🌱 I’m currently learning SQL and Design Patterns in Java
-- ⚡ Fun fact: I don't use Arch BTW 
+- ⚡ Fun fact: I like banana pizza!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniloalvescosta&show_icons=true&hide=contribs,prs&theme=radical)
 
