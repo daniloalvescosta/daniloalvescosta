@@ -1,7 +1,7 @@
 ### Hi, i'm Danilo Costa! Welcome 👋
 
 - 👨‍🎓 I'm back-end java Developer graduated in systems analysis and development
-- 🌱 I’m currently learning SQL and TDD
+- 🌱 I’m currently learning SCRUM
 - ⚡ Fun fact: I like banana pizza!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniloalvescosta&show_icons=true&hide=contribs,prs&theme=radical)
