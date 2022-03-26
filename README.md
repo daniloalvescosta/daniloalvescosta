@@ -1,6 +1,6 @@
 ### Hi, i'm Danilo Costa! Welcome 👋
 
-- 👨‍🎓 I'm fullstack developer, Node.JS / Django and React!
+- 👨‍🎓 I'm Fullstack Rails Developer
 - 🌱 I’m currently learning SCRUM
 - ⚡ Fun fact: I like banana pizza!
 
@@ -15,13 +15,11 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Danilo-Linux" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" alt="Danilo-NodeJS" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Danilo-React" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" alt="Danilo-Django" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+    <img align="center" alt="Danilo-Rails" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" alt="Danilo-Django" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img align="center" alt="Danilo-Ruby" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/>
 
 
   </p>
