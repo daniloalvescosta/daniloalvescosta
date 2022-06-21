@@ -3,9 +3,6 @@
 - 👨‍🎓 I'm Fullstack Rails Developer
 - 🌱 I’m currently learning SCRUM
 - ⚡ Fun fact: I like banana pizza!
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniloalvescosta&show_icons=true&hide=contribs,prs&theme=radical)
-
   
   #
   
@@ -33,7 +30,5 @@
     <a href="https://www.linkedin.com/in/danilocosta93/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:danilo.costa25932593@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/BlyBR/BlyBR/blob/output/github-contribution-grid-snake.svg)
-    
   </p>
 </div>
