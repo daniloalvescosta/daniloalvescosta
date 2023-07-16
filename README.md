@@ -1,7 +1,6 @@
 ### Hi, i'm Danilo Costa! Welcome 👋
 
-- 👨‍🎓 I'm Full Stack Rails Developer focused on backend, actually, I'm working in a financial management system using Rails! Please take a look at my Linkedin profile
-- ⚡ Fun fact: I like banana pizza!
+- 👨‍🎓 Highly experienced Software Developer passionate about creating efficient and scalable solutions. With expertise in Java Spring Boot, Ruby on Rails, and a wide range of modern technologies, I have been driving the development of innovative and high-quality applications. My skills include REST API development, Docker usage, PostgreSQL database administration, and implementing asynchronous requests. 
   
   #
   
