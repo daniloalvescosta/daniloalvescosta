@@ -1,0 +1,91 @@
+@import url("https://fonts.googleapis.com/css2?family=Playwrite+NG+Modern:wght@100..400&display=swap");
+#companies {
+  background: linear-gradient(-45deg, #354394 0%, #7b5fac 25%, #a86aa4 50%, #cc6b8e 62%, #f18271 75%, #f7c978 100%);
+  background-size: 400% 400%;
+  position: relative;
+  animation: animate 15s ease-in-out infinite;
+  color: white;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#companies .title {
+  font-size: 90px;
+  font-family: "Playwrite NG Modern", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+  padding-bottom: 50px;
+}
+#companies .left-card {
+  background-color: white;
+  padding: 40px;
+  border-radius: 20px;
+  color: black;
+  display: flex;
+  align-items: center;
+  margin-bottom: 50px;
+  box-shadow: 4px 4px 4px black;
+}
+#companies .left-card .left-text {
+  padding-left: 50px;
+  width: 600px;
+  font-size: 26px;
+}
+#companies .left-card .left-text h2 {
+  color: black;
+  font-size: 50px;
+}
+#companies .left-card .left-text h3, #companies .left-card .left-text h4 {
+  color: #5A6057;
+  font-size: 20px;
+}
+#companies .left-card .left-text span {
+  font-size: 20px;
+}
+#companies .left-card img {
+  width: 400px;
+  border-radius: 20px;
+}
+#companies .right-card {
+  padding: 40px;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 50px;
+}
+#companies .right-card .right-text {
+  padding-left: 50px;
+  width: 600px;
+  font-size: 26px;
+}
+#companies .right-card .right-text h2 {
+  font-size: 50px;
+}
+#companies .right-card .right-text h3, #companies .right-card .right-text h4 {
+  color: #E0E2DF;
+  font-size: 20px;
+}
+#companies .right-card .right-text span {
+  font-size: 20px;
+}
+#companies .right-card img {
+  width: 400px;
+  border-radius: 20px;
+}
+
+@keyframes animate {
+  0% {
+    background-position: 0 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0 50%;
+  }
+}
+
+/*# sourceMappingURL=experience.css.map */
