@@ -1,4 +1,6 @@
-.title2 {
+$card-bg: white;
+
+.title2{
   font-size: 90px;
   font-family: "Playwrite NG Modern", cursive;
   font-optical-sizing: auto;
@@ -7,9 +9,9 @@
   color: white;
   background-color: black;
   text-align: center;
-}
+}  
 
-#exp-section {
+#exp-section{
   padding-left: 30px;
   padding-right: 30px;
   padding-top: 50px;
@@ -18,25 +20,27 @@
   color: black;
   overflow-x: hidden;
   height: 100%;
-}
-#exp-section .education-card {
-  background-color: white;
-  color: black;
-  width: 400px;
-  height: 450px;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  border-radius: 30px;
-  padding: 20px;
-  margin: auto;
-  margin-top: 30px;
-}
-#exp-section .education-card img {
-  padding-right: 50px;
-  width: 250px;
-  text-align: center;
-  align-items: center;
+
+  .education-card{
+    background-color: $card-bg;
+    color: black;
+    width: 400px;
+    height: 450px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 30px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 30px;
+
+    img{
+      padding-right: 50px;
+      width: 250px;
+      text-align: center;
+      align-items: center;
+    }
+  }
 }
 
 .horizontal-scrolling-items {
@@ -48,14 +52,10 @@
   animation-iteration-count: infinite;
   animation-timing-function: linear;
 }
-
-@keyframes infiniteScroll {
-  from {
-    transform: translateX(0);
-  }
-  to {
-    transform: translateX(-50%);
-  }
+.horizontal-scrolling-items__item {
 }
 
-/*# sourceMappingURL=education.css.map */
+@keyframes infiniteScroll {
+  from {transform: translateX(0)}
+  to {transform: translateX(-50%)}
+}
